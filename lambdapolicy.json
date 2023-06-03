@@ -1,0 +1,9 @@
+{
+        "Version": "2023-05-31",
+        "Statement": [{
+                "Effect": "Allow",
+                "Action": ["*"],
+                "Resource": "*"
+                         }]
+
+}
